@@ -1,0 +1,12 @@
+module.exports={
+  google:{
+clientID:"854692147029-3adhiggpdjl7qrm6k796cbkpp8r067gj.apps.googleusercontent.com",
+clientSecret:"jgEJQtG4E__opnw9-Jfi73yF"
+},
+mongodb:{
+  dbURI:"mongodb://akash:akash123@ds135547.mlab.com:35547/aksbyte"
+},
+session:{
+  cookieKey:'theakshgangwariswonderfulman'
+}
+};
